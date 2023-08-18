@@ -1,0 +1,7 @@
+apt update
+apt upgrade
+git pull
+rm -rf 404
+git clone https://github.com/ Juvanjery/404.git
+cd 404
+python 404.py
